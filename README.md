@@ -38,4 +38,15 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
+
 <!---LeetCode Topics End-->
+
+
+### Day 3 — Valid Parentheses
+- Platform: LeetCode
+- Problem: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- Language: Java
+- Approach: Stack
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+- Status: Solved ✅

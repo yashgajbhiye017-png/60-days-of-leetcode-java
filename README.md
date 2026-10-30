@@ -23,3 +23,19 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 - Status: Solved ✅
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->

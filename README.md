@@ -30,6 +30,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
 
 

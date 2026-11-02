@@ -51,6 +51,14 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
 
 

@@ -43,6 +43,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
+| [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 ## Interactive
 |  |
 | ------- |

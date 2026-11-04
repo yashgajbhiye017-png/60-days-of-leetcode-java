@@ -44,6 +44,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
+| [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
 
 

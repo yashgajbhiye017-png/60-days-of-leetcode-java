@@ -45,6 +45,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
 
 

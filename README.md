@@ -46,6 +46,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0724-find-pivot-index) |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 ## Interactive
 |  |
 | ------- |
@@ -68,10 +70,23 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
 
 

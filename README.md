@@ -94,10 +94,15 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
 
 

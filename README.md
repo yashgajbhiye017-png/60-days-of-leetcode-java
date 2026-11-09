@@ -57,6 +57,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+| [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,14 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 
 

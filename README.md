@@ -95,6 +95,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
+| [0021-merge-two-sorted-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
+| [0021-merge-two-sorted-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
 
 

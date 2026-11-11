@@ -58,6 +58,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 | [0021-merge-two-sorted-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

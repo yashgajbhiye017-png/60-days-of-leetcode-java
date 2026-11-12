@@ -59,6 +59,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0203-remove-linked-list-elements](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0203-remove-linked-list-elements) |
 | [0021-merge-two-sorted-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

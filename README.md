@@ -90,6 +90,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0002-add-two-numbers](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0002-add-two-numbers](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

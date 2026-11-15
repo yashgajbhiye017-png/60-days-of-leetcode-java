@@ -104,6 +104,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0002-add-two-numbers](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

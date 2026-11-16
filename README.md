@@ -49,6 +49,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0724-find-pivot-index](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0724-find-pivot-index) |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0485-max-consecutive-ones) |
+| [1672-richest-customer-wealth](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0021-merge-two-sorted-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0002-add-two-numbers](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
 
 

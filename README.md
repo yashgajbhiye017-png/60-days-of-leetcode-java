@@ -112,6 +112,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

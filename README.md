@@ -63,6 +63,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0344-reverse-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0024-swap-nodes-in-pairs](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -50,6 +50,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0485-max-consecutive-ones) |
 | [1672-richest-customer-wealth](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1672-richest-customer-wealth) |
+| [0643-maximum-average-subarray-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1672-richest-customer-wealth) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
 
 

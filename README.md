@@ -52,6 +52,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [1672-richest-customer-wealth](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1672-richest-customer-wealth) |
 | [0643-maximum-average-subarray-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0238-product-of-array-except-self](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0278-first-bad-version](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0278-first-bad-version) |
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |

@@ -53,6 +53,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0643-maximum-average-subarray-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0643-maximum-average-subarray-i) |
 | [0238-product-of-array-except-self](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
+| [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0002-add-two-numbers](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |

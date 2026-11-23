@@ -32,6 +32,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0020-valid-parentheses](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0344-reverse-string) |
+| [0012-integer-to-roman](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0012-integer-to-roman) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0141-linked-list-cycle](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0012-integer-to-roman](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 | [0009-palindrome-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0012-integer-to-roman) |
 ## Bit Manipulation
 |  |
 | ------- |

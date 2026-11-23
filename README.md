@@ -58,6 +58,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0941-valid-mountain-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0941-valid-mountain-array) |
 | [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Counting Sort
 |  |
 | ------- |

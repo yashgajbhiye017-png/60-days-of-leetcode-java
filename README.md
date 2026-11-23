@@ -57,6 +57,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0941-valid-mountain-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0941-valid-mountain-array) |
+| [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +152,11 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
 
 

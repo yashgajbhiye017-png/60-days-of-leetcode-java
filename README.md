@@ -73,6 +73,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0344-reverse-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0086-partition-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0086-partition-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0086-partition-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

@@ -55,6 +55,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
 | [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0941-valid-mountain-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0941-valid-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |

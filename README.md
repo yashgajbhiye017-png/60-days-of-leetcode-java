@@ -54,10 +54,12 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0238-product-of-array-except-self](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
 | [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,10 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
 
 

@@ -116,6 +116,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0066-plus-one](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0066-plus-one) |
 | [0009-palindrome-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0012-integer-to-roman) |
+| [3360-stone-removal-game](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
 
 

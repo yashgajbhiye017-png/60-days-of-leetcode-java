@@ -62,11 +62,13 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1929-concatenation-of-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1929-concatenation-of-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |

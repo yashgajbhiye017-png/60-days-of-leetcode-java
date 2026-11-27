@@ -61,6 +61,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1929-concatenation-of-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/1929-concatenation-of-array) |
+| [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0344-reverse-string](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0344-reverse-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0086-partition-list) |
+| [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0035-search-insert-position](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0704-binary-search) |
+| [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0977-squares-of-a-sorted-array](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0268-missing-number](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0561-array-partition) |
+| [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +111,7 @@ Solve at least one problem daily, document my learning, and stay consistent for 
 | [0160-intersection-of-two-linked-lists](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0012-integer-to-roman](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0012-integer-to-roman) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/yashgajbhiye017-png/60-days-of-leetcode-java/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
